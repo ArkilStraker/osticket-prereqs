@@ -99,13 +99,13 @@ Why It's Required?
 <p>
 MySQL Server acts as the database backbone of the osTicket system. It stores and manages all the structured data that osTicket uses to operate. This includes:
 
-Ticket information
+-Ticket information
 
-User accounts and departments
+-User accounts and departments
 
-Email threads and internal notes
+-Email threads and internal notes
 
-System settings and logs
+-System settings and logs
 
 When an end-user submits a ticket through the osTicket interface, that data is stored in the MySQL database. When staff members log in to view, update, or close tickets, osTicket retrieves and updates that information by communicating with MySQL Server using SQL queries.
 
