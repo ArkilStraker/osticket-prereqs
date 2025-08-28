@@ -132,3 +132,27 @@ Why MySQL Server Is Essential for osTicket
 Renaming the upload folder to osTicket within C:\inetpub\wwwroot sets up the application in a clearly named directory and allows IIS to recognize and serve the osTicket helpdesk interface from a logical and accessible web path (e.g., http://localhost/osTicket).
 </p>
 <br />
+<p>
+  
+<img width="655" height="585" alt="image" src="https://github.com/user-attachments/assets/12da2ab1-603d-428a-b4a7-e87e45a7fe2b" />
+
+<img width="504" height="400" alt="image" src="https://github.com/user-attachments/assets/a5e11a07-e08d-4cad-92cb-c464f0894f6b" />
+
+</p>
+<p>
+Enabling PHP intl and imap Extensions
+These extensions are required by osTicket for multilingual support and email fetching.
+They are enabled by editing the php.ini file to activate extension=intl and extension=imap, followed by restarting IIS. This allows the osTicket system to fully support global users and create tickets from incoming emails.
+</p>
+<br />
+<p>
+  
+<img width="655" height="585" alt="image" src="https://github.com/user-attachments/assets/12da2ab1-603d-428a-b4a7-e87e45a7fe2b" />
+
+</p>
+<p>
+Enabling PHP intl and imap Extensions
+These extensions are required by osTicket for multilingual support and email fetching.
+They are enabled by editing the php.ini file to activate extension=intl and extension=imap, followed by restarting IIS. This allows the osTicket system to fully support global users and create tickets from incoming emails.
+</p>
+<br />
