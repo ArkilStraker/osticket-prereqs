@@ -30,12 +30,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 <p>
-
-<img width="411" height="360" alt="image" src="https://github.com/user-attachments/assets/578fdba5-79d7-48da-94f4-dab6b8896d39" />
+<img width="411" height="366" alt="image" src="https://github.com/user-attachments/assets/1ce194c0-1bb9-410e-92a9-834d092f3b68" />
 
 </p>
 <p>
-Installing PHP Manager for Internet Information Services (IIS). PHP Manager is a Windows IIS (Internet Information Services) extension that helps you easily manage PHP settings and configurations. It provides a graphical interface in the IIS Manager that makes PHP management more user-friendly
+IIS (Internet Information Services) is the web server used to host and run osTicket when deploying the system on a Windows-based environment. It acts as the bridge between users and the osTicket application, handling all web traffic and delivering the PHP-based content through the browser.
 </p>
 <br />
 <p>
@@ -44,7 +43,19 @@ Installing PHP Manager for Internet Information Services (IIS). PHP Manager is a
 
 </p>
 <p>
-Installing PHP Manager for Internet Information Services (IIS). PHP Manager is a Windows IIS (Internet Information Services) extension that helps you easily manage PHP settings and configurations. It provides a graphical interface in the IIS Manager that makes PHP management more user-friendly
+Installing PHP Manager for Internet Information Services (IIS). PHP Manager is a Windows IIS (Internet Information Services) extension that helps you easily manage PHP settings and configurations. It provides a graphical interface in the IIS Manager that makes PHP management more user-friendly.
+</p>
+<br />
+<p>
+<img width="730" height="485" alt="image" src="https://github.com/user-attachments/assets/5de249cd-c4cc-4137-bbc4-6a01336c5d83" />
+<img width="523" height="506" alt="image" src="https://github.com/user-attachments/assets/1180b33a-0e59-401e-9963-798bfde3908e" />
+<img width="542" height="370" alt="image" src="https://github.com/user-attachments/assets/b71f9f75-d3bf-46f7-b09e-8e1eab684dbb" />
+<img width="527" height="297" alt="image" src="https://github.com/user-attachments/assets/8b97c9ad-a7cd-49ef-879b-023629b0480a" />
+
+
+</p>
+<p>
+Registering PHP from within IIS” means configuring Internet Information Services (IIS) to recognize and process PHP files by linking it to the PHP executable (php-cgi.exe). This step is essential when hosting PHP-based applications—such as osTicket—on a Windows server, allowing IIS to correctly interpret and serve .php pages through the FastCGI module.
 </p>
 <br />
 
@@ -113,10 +124,11 @@ Why MySQL Server Is Essential for osTicket
 </p>
 <br />
 <p>
-  <img width="479" height="293" alt="image" src="https://github.com/user-attachments/assets/1f924af0-3ab7-4b17-b611-3c7f815ef7ab" />
+  
+<img width="642" height="307" alt="image" src="https://github.com/user-attachments/assets/f0145a32-a04e-4bbe-b77c-ceb55f964241" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Renaming the upload folder to osTicket within C:\inetpub\wwwroot sets up the application in a clearly named directory and allows IIS to recognize and serve the osTicket helpdesk interface from a logical and accessible web path (e.g., http://localhost/osTicket).
 </p>
 <br />
