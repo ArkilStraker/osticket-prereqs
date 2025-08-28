@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11 Pro</b> (21H2)
+- Windows 11 Pro</b>
 
 <h2>List of Prerequisites</h2>
 
@@ -47,12 +47,11 @@ Installing PHP Manager for Internet Information Services (IIS). PHP Manager is a
 </p>
 <br />
 <p>
-<img width="429" height="346" alt="image" src="https://github.com/user-attachments/assets/b707311f-a9bd-4a13-9dfb-a7ba29b584de" /> <img width="461" height="444" alt="image" src="https://github.com/user-attachments/assets/f613a4a7-2679-4421-b33c-97796228029c" />
+<img width="429" height="346" alt="image" src="https://github.com/user-attachments/assets/b707311f-a9bd-4a13-9dfb-a7ba29b584de" /> <img width="425" height="457" alt="image" src="https://github.com/user-attachments/assets/137bc5e4-c374-477c-8a7f-40acf9a9b829" />
+
 
 
 <img width="407" height="375" alt="image" src="https://github.com/user-attachments/assets/9b2e37d2-5997-478d-b815-809809806a4e" /> <img width="441" height="302" alt="image" src="https://github.com/user-attachments/assets/73d86a06-0220-4b70-aa29-84367a60875d" />
-
-
 
 
 </p>
