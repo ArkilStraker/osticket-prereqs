@@ -8,7 +8,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -47,11 +46,11 @@ Installing PHP Manager for Internet Information Services (IIS). PHP Manager is a
 </p>
 <br />
 <p>
-<img width="429" height="346" alt="image" src="https://github.com/user-attachments/assets/b707311f-a9bd-4a13-9dfb-a7ba29b584de" /> <img width="425" height="457" alt="image" src="https://github.com/user-attachments/assets/137bc5e4-c374-477c-8a7f-40acf9a9b829" />
+<img width="429" height="346" alt="image" src="https://github.com/user-attachments/assets/b707311f-a9bd-4a13-9dfb-a7ba29b584de" /><img width="425" height="457" alt="image" src="https://github.com/user-attachments/assets/137bc5e4-c374-477c-8a7f-40acf9a9b829" />
 
 
 
-<img width="407" height="375" alt="image" src="https://github.com/user-attachments/assets/9b2e37d2-5997-478d-b815-809809806a4e" /> <img width="441" height="302" alt="image" src="https://github.com/user-attachments/assets/73d86a06-0220-4b70-aa29-84367a60875d" />
+<img width="407" height="375" alt="image" src="https://github.com/user-attachments/assets/9b2e37d2-5997-478d-b815-809809806a4e" /><img width="441" height="302" alt="image" src="https://github.com/user-attachments/assets/73d86a06-0220-4b70-aa29-84367a60875d" />
 
 
 </p>
@@ -93,10 +92,10 @@ Why It's Required?
 <br />
 <p>
  
-<img width="492" height="345" alt="image" src="https://github.com/user-attachments/assets/018e259b-3762-4b86-9cf7-7ffbd7118381" /> <img width="444" height="330" alt="image" src="https://github.com/user-attachments/assets/c47e4d4a-82f0-4c54-97ae-aa88f080fad2" />
+<img width="492" height="345" alt="image" src="https://github.com/user-attachments/assets/018e259b-3762-4b86-9cf7-7ffbd7118381" /><img width="444" height="330" alt="image" src="https://github.com/user-attachments/assets/c47e4d4a-82f0-4c54-97ae-aa88f080fad2" />
 
 
-<img width="463" height="330" alt="image" src="https://github.com/user-attachments/assets/fdccd19e-1b15-4b26-a3c7-6fe20f6480b8" /> <img width="456" height="342" alt="image" src="https://github.com/user-attachments/assets/84f37bf6-3c45-4078-9919-f1da671032ae" />
+<img width="463" height="330" alt="image" src="https://github.com/user-attachments/assets/fdccd19e-1b15-4b26-a3c7-6fe20f6480b8" /><img width="456" height="342" alt="image" src="https://github.com/user-attachments/assets/84f37bf6-3c45-4078-9919-f1da671032ae" />
 
 <img width="487" height="347" alt="image" src="https://github.com/user-attachments/assets/25fd8539-37c5-4082-becb-ed8e310afc74" />
 
@@ -136,7 +135,7 @@ Renaming the upload folder to osTicket within C:\inetpub\wwwroot sets up the app
 <br />
 <p>
   
-<img width="355" height="546" alt="image" src="https://github.com/user-attachments/assets/c8b22cd2-89ca-4a67-9816-c17ead600263" /> <img width="504" height="400" alt="image" src="https://github.com/user-attachments/assets/a5e11a07-e08d-4cad-92cb-c464f0894f6b" />
+<img width="355" height="546" alt="image" src="https://github.com/user-attachments/assets/c8b22cd2-89ca-4a67-9816-c17ead600263" /><img width="504" height="400" alt="image" src="https://github.com/user-attachments/assets/a5e11a07-e08d-4cad-92cb-c464f0894f6b" />
 
 </p>
 <p>
@@ -147,7 +146,7 @@ They are enabled by editing the php.ini file to activate extension=intl and exte
 <br />
 <p>
   
-<img width="521" height="401" alt="image" src="https://github.com/user-attachments/assets/78dfef38-3e23-4a97-8f8b-7231805d337f" /> <img width="323" height="246" alt="image" src="https://github.com/user-attachments/assets/6f3be5a7-8a63-4cfc-873f-2372ddb15085" />
+<img width="521" height="401" alt="image" src="https://github.com/user-attachments/assets/78dfef38-3e23-4a97-8f8b-7231805d337f" /><img width="323" height="246" alt="image" src="https://github.com/user-attachments/assets/6f3be5a7-8a63-4cfc-873f-2372ddb15085" />
 
 </p>
 <p>
@@ -156,7 +155,7 @@ HeidiSQL is a powerful and user-friendly database management tool used to connec
 <br />
 <p>
   
-<img width="469" height="562" alt="image" src="https://github.com/user-attachments/assets/0b373a9a-5986-40da-9eb7-820495872d70" /> <img width="518" height="597" alt="image" src="https://github.com/user-attachments/assets/1bced936-2af5-46ab-a6b2-26d1e4afbecf" />
+<img width="469" height="562" alt="image" src="https://github.com/user-attachments/assets/0b373a9a-5986-40da-9eb7-820495872d70" /><img width="518" height="597" alt="image" src="https://github.com/user-attachments/assets/1bced936-2af5-46ab-a6b2-26d1e4afbecf" />
 
 
 
