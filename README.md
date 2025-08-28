@@ -29,7 +29,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Configure pernissions and install osTicket
 
 <h2>Installation Steps</h2>
+<p>
 
+<img width="411" height="360" alt="image" src="https://github.com/user-attachments/assets/578fdba5-79d7-48da-94f4-dab6b8896d39" />
+
+</p>
+<p>
+Installing PHP Manager for Internet Information Services (IIS). PHP Manager is a Windows IIS (Internet Information Services) extension that helps you easily manage PHP settings and configurations. It provides a graphical interface in the IIS Manager that makes PHP management more user-friendly
+</p>
+<br />
 <p>
   <img width="495" height="407" alt="image" src="https://github.com/user-attachments/assets/ff754e25-3f0a-497c-83f7-4758d4943d3f" />
 
