@@ -54,8 +54,17 @@ Rewrite module refers to the Apache “mod_rewrite” module or URL Rewrite modu
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+The Microsoft Visual C++ Redistributable is a required runtime component for running certain features of osTicket on Windows-based servers, especially when osTicket is deployed using:
+
+-IIS (Internet Information Services)
+-PHP installed via Windows binaries
+-FastCGI or certain PHP extensions
+
+Many of the PHP builds for Windows (such as those from PHP.net or Web Platform Installer) rely on Microsoft’s C++ runtime libraries to function correctly. These libraries are provided through the Visual C++ Redistributable.
+Why It's Required?
+-It provides essential .DLL files like MSVCR110.dll or VCRUNTIME140.dll, which allow the PHP interpreter and associated modules to run.
+-Without it, you may encounter errors or failed services when trying to load PHP, access MySQL, or even run osTicket's setup.
+-It ensures that all native (compiled) PHP extensions or third-party libraries that osTicket depends on are supported.
 <br />
 <p>
   <img width="479" height="293" alt="image" src="https://github.com/user-attachments/assets/1f924af0-3ab7-4b17-b611-3c7f815ef7ab" />
