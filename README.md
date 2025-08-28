@@ -47,13 +47,9 @@ Installing PHP Manager for Internet Information Services (IIS). PHP Manager is a
 </p>
 <br />
 <p>
-<img width="730" height="485" alt="image" src="https://github.com/user-attachments/assets/5de249cd-c4cc-4137-bbc4-6a01336c5d83" />
-  
-<img width="523" height="506" alt="image" src="https://github.com/user-attachments/assets/1180b33a-0e59-401e-9963-798bfde3908e" />
+<img width="547" height="415" alt="image" src="https://github.com/user-attachments/assets/4e9f6d2b-4575-4787-8841-edd6daf3605c" /><img width="523" height="506" alt="image" src="https://github.com/user-attachments/assets/1180b33a-0e59-401e-9963-798bfde3908e" />
 
-<img width="542" height="370" alt="image" src="https://github.com/user-attachments/assets/b71f9f75-d3bf-46f7-b09e-8e1eab684dbb" />
-
-<img width="527" height="297" alt="image" src="https://github.com/user-attachments/assets/8b97c9ad-a7cd-49ef-879b-023629b0480a" />
+<img width="542" height="370" alt="image" src="https://github.com/user-attachments/assets/b71f9f75-d3bf-46f7-b09e-8e1eab684dbb" /><img width="527" height="297" alt="image" src="https://github.com/user-attachments/assets/8b97c9ad-a7cd-49ef-879b-023629b0480a" />
 
 
 
@@ -96,13 +92,9 @@ Why It's Required?
 <br />
 <p>
  
-<img width="491" height="383" alt="image" src="https://github.com/user-attachments/assets/43576f8c-fc52-4ada-bf84-f839532f0501" />
+<img width="491" height="383" alt="image" src="https://github.com/user-attachments/assets/43576f8c-fc52-4ada-bf84-f839532f0501" /><img width="490" height="380" alt="image" src="https://github.com/user-attachments/assets/cc76b321-682d-4196-ae61-2d74000c4742" />
 
-<img width="490" height="380" alt="image" src="https://github.com/user-attachments/assets/cc76b321-682d-4196-ae61-2d74000c4742" />
-
-<img width="493" height="376" alt="image" src="https://github.com/user-attachments/assets/35692c69-7656-45e9-8325-4d46838bea69" />
-
-<img width="497" height="377" alt="image" src="https://github.com/user-attachments/assets/996b69fb-9935-44e2-aaac-09de881424d9" />
+<img width="493" height="376" alt="image" src="https://github.com/user-attachments/assets/35692c69-7656-45e9-8325-4d46838bea69" /><img width="497" height="377" alt="image" src="https://github.com/user-attachments/assets/996b69fb-9935-44e2-aaac-09de881424d9" />
 
 <img width="494" height="371" alt="image" src="https://github.com/user-attachments/assets/c5db95a3-e034-4b00-80c7-7fe89e7d196a" />
 
@@ -142,9 +134,7 @@ Renaming the upload folder to osTicket within C:\inetpub\wwwroot sets up the app
 <br />
 <p>
   
-<img width="655" height="585" alt="image" src="https://github.com/user-attachments/assets/12da2ab1-603d-428a-b4a7-e87e45a7fe2b" />
-
-<img width="504" height="400" alt="image" src="https://github.com/user-attachments/assets/a5e11a07-e08d-4cad-92cb-c464f0894f6b" />
+<img width="655" height="585" alt="image" src="https://github.com/user-attachments/assets/12da2ab1-603d-428a-b4a7-e87e45a7fe2b" /><img width="504" height="400" alt="image" src="https://github.com/user-attachments/assets/a5e11a07-e08d-4cad-92cb-c464f0894f6b" />
 
 </p>
 <p>
@@ -155,8 +145,7 @@ They are enabled by editing the php.ini file to activate extension=intl and exte
 <br />
 <p>
   
-<img width="582" height="454" alt="image" src="https://github.com/user-attachments/assets/30a7f6e7-2954-459e-b4c9-9437980ee8f9" />
-<img width="323" height="246" alt="image" src="https://github.com/user-attachments/assets/6f3be5a7-8a63-4cfc-873f-2372ddb15085" />
+<img width="582" height="454" alt="image" src="https://github.com/user-attachments/assets/30a7f6e7-2954-459e-b4c9-9437980ee8f9" /><img width="323" height="246" alt="image" src="https://github.com/user-attachments/assets/6f3be5a7-8a63-4cfc-873f-2372ddb15085" />
 
 </p>
 <p>
@@ -165,8 +154,7 @@ HeidiSQL is a powerful and user-friendly database management tool used to connec
 <br />
 <p>
   
-<img width="459" height="547" alt="image" src="https://github.com/user-attachments/assets/f82a11b7-f432-46d8-bc1c-3e307f9210f6" />
-<img width="564" height="570" alt="image" src="https://github.com/user-attachments/assets/bf5b0466-e4af-4f08-ac7c-5e04c12e8713" />
+<img width="459" height="547" alt="image" src="https://github.com/user-attachments/assets/f82a11b7-f432-46d8-bc1c-3e307f9210f6" /><img width="564" height="570" alt="image" src="https://github.com/user-attachments/assets/bf5b0466-e4af-4f08-ac7c-5e04c12e8713" />
 
 </p>
 <p>
